@@ -1,7 +1,7 @@
 {
   "name": "react-native-chrome-intent",
   "title": "React Native Android Intent",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A little known feature in Android lets you launch apps directly from a web page via an Android Intent",
   "main": "index.js",
   "scripts": {
